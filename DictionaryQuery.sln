@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryQuery", "DictionaryQuery.csproj", "{A2EF3453-C3B3-4C8E-9FAC-F28C55C9C933}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryQuery", "DictionaryQuery\DictionaryQuery.csproj", "{A2EF3453-C3B3-4C8E-9FAC-F28C55C9C933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "..\Dictionary\Dictionary.csproj", "{CBA94321-E1FD-48C0-B77E-59E998571CCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{CBA94321-E1FD-48C0-B77E-59E998571CCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
